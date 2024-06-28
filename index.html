@@ -25,12 +25,13 @@
         font-family: cursive;
     }
 
-    img {
-        justify-content: center;
-        align-items: center;
-        display: flex;
-        margin-left: 38%;
-    }
+   .image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    padding: 20px; 
+}
 
     .container {
         text-align: center;
@@ -67,8 +68,10 @@
         <button id="calculateButton">Calculate Love</button>
         <p id="loveResult"></p>
     </div>
-    <img src="./lovetwerk.gif" height="300px" alt="gif">
 
+    <div class="image-container">
+    <img src="./lovetwerk.gif" height="300px" alt="gif">
+    </div>
 
     <!-- Link to the external JavaScript file -->
     <script src="./loveCalculator.js"></script>
