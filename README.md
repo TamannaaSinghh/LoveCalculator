@@ -4,8 +4,7 @@ Welcome to the Love Calculator! This is a fun project that calculates the compat
 
 
 ## 📸 Screenshots
-![lovecalculator jpeg](https://github.com/TamannaaSinghh/LoveCalculator/assets/158739752/90a1820e-ac92-4a71-b86b-1121909a24e3)
-
+![calculator jpeg](https://github.com/TamannaaSinghh/LoveCalculator/assets/158739752/9c8ab939-8742-493d-9e44-41407253fe8a)
 
 ## 🌟 Features
 
