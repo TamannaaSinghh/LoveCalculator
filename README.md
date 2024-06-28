@@ -2,9 +2,9 @@
 
 Welcome to the Love Calculator! This is a fun project that calculates the compatibility between two names. Built with HTML, CSS, and JavaScript, it provides a playful way to see the love percentage between you and your special someone.
 
+
 ## 📸 Screenshots
-<img src= "![Screenshot 2024-06-28 155920](https://github.com/TamannaaSinghh/LoveCalculator/assets/158739752/8244f378-fd0b-4af2-911a-062a464b0cf0)
-" height= "400px" width= "600px">
+![Uploading Screenshot 2024-06-28 155920.png…]()
 
 ## 🌟 Features
 
