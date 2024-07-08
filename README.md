@@ -5,6 +5,7 @@ Welcome to the Love Calculator! This is a fun project that calculates the compat
 
 ## 📸 Screenshots
 ![calculator jpeg](https://github.com/TamannaaSinghh/LoveCalculator/assets/158739752/9c8ab939-8742-493d-9e44-41407253fe8a)
+Project Link: https://tamannaasinghh.github.io/LoveCalculator/
 
 ## 🌟 Features
 
@@ -50,7 +51,6 @@ JavaScript: For dynamic calculations and interactivity.
 ## 📧 Contact
 Tamanna - @TamannaaSinghh - singhtamannaa21@gmail.com
 
-Project Link: https://tamannaasinghh.github.io/LoveCalculator/
 
 
 
